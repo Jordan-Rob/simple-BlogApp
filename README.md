@@ -1,0 +1,1 @@
+This is a simple blog app made with python and flask with updates still being made!
